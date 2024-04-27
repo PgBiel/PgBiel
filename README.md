@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+Welcome to my profile! I am a Computer Science undergrad and an open-source enthusiast.
+
+I'm currently participating in the [Gleam](https://github.com/gleam-lang/gleam) and [Typst](https://github.com/typst/typst) communities.
+
+Check out some of my coolest projects below!
 
 <!--
 **PgBiel/PgBiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
